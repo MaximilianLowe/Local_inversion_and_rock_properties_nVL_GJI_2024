@@ -1,46 +1,46 @@
-# id: https://doi.org/10.5285/9ac70954-80aa-45af-b70f-e4e45efa8293 
-# title: Density and susceptibility catalogue of 320 rock samples from northern Victoria Land, East Antarctica
-# summary: We present a petrophysical catalogue of new density and susceptibility measurements conducted on 320 rock samples from northern Victoria Land, East Antarctica. The rock samples are stored by the Federal Institute for Geosciences and Natural Resources (BGR) in Berlin-Spandau and Hanover, Germany
-# acknowledgement: Funding for this research was provided by NERC through a SENSE CDT studentship (NE/T00939X/1).
-# keywords: East Antarctica,density,northern Victoria Land,petrology,susceptibility
+# id: https://doi.org/10.5285/9ac70954-80aa-45af-b70f-e4e45efa8293 ,,,,,,,,,,,,,,,,,,,,,,
+# title: Density and susceptibility catalogue of 320 rock samples from northern Victoria Land, East Antarctica,,,,,,,,,,,,,,,,,,,,,
+# summary: We present a petrophysical catalogue of new density and susceptibility measurements conducted on 320 rock samples from northern Victoria Land, East Antarctica. The rock samples are stored by the Federal Institute for Geosciences and Natural Resources (BGR) in Berlin-Spandau and Hanover, Germany,,,,,,,,,,,,,,,,,,,,
+# acknowledgement: Funding for this research was provided by NERC through a SENSE CDT studentship (NE/T00939X/1).,,,,,,,,,,,,,,,,,,,,,,
+# keywords: East Antarctica,density,northern Victoria Land,petrology,susceptibility,,,,,,,,,,,,,,,,,,
 # citation: Lowe, M., Jordan, T., Ebbing, J., Koglin, N., Ruppel, A., Moorkamp, M., Green, C., Laufer, A., Liebsch, J., Ginga, M., & Larter, R. (2024). Density and susceptibility catalogue of 320 rock samples from northern Victoria Land, East Antarctica (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. https://doi.org/10.5285/9ac70954-80aa-45af-b70f-e4e45efa8293
-# license: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
-# history: Susceptibility measurements were conducted by using a handheld KAPPAMETER KM-7 (Pocket Magnetic Susceptibility Meter) hand meter. For each rock sample eight repeat measurements have been performed on different flat and if possible fresh surfaces. Density was measured by using a scale and a bucket of water, where we measured the try rock weight and the volume was established by measuring the weight of the displaced water.
-# : The samples were collected during the GANOVEX missions between 1979-2021.
-# : The columns of the CSV file are described as follows:
-# : * sample_name: Collection identifier.
-# : * latitude: latitude in decimal minutes WGS 84
-# : * longitude: longitude in decimal minutes WGS 84
-# : * lat_decimal: latitude in decimal degrees WGS84
-# : * lon_decimal: longitude in decimal degrees WGS84
-# : * locality: Describes the sample location
-# : * rocktyp: Describes the rock type of the sample as classified by the sample collector
-# : * stratigraphy: Describes stratigraphic formation of the sample as classified by the sample collector
-# : * weight: Describes the sample try weight in gram
-# : * volume: Describes the volume established by displaced water of the submerged rock sample in cubic centimetre
-# : * density: Describes the rock density based on weight and volume in gram per cubic centimetre.
-# : * observation_during_measurements: this column contains notes of observations during the measurements such as strong weathering etc.
-# : * susceptibility_1 - susceptibility_8 : Describes the eight repeat susceptibility measurements in 10-3 SI.
-# : * susceptibility_average : Describes the average value of all eight repeat measurements in 10-3 SI.
-# : * susceptibility std : Describes the standard deviation value of all eight repeat measurements in 10-3 SI.
-# : * sample_location: Describes where the rock sample is stored. Either NAPA (National Polar Sample Archive in Berlin-Spandau, Germany) or BGR (Federal Institute for Geosciences and Natural Resources, Hannover, Germany).
-# comment: The KM-7 Magnetic Susceptibility Meter has a sensitivity of 1 x 10-6 SI units (based on the manufacturer). The repeat measurements were undertaken on different surfaces of the rock sample. The spatial variability of the rock sample was quite significant for same samples.
-# : susceptibility measurement undertaken using a handheld KAPPAMETER KM-7 (Pocket Magnetic Susceptibility Meter).
-# institution: British Antarctic Survey
-# authors: Maximilian Lowe,Tom Jordan,Jorg Ebbing,Nikola Koglin,Antonia Ruppel,Max Moorkamp,Chris Green,Andreas Laufer,Jonas Liebsch,Mikhail Ginga,Robert Larter
-# project: SENSE - Centre for Satellite Data in Environmental Science https://gtr.ukri.org/projects?ref=NE/T00939X/1
-# references:
-# publisher_name: NERC EDS UK Polar Data Centre
-# publisher_type: institution
-# publisher_email: pdc@bas.ac.uk
-# publisher_url: https://www.bas.ac.uk/data/uk-pdc/
-# time_coverage_start: 1979-01-01
-# time_coverage_end: 2021-12-31
-# geospatial_lon_min: 135  (degree_east)
-# geospatial_lon_max: 172  (degree_east)
-# geospatial_lat_min: -73  (degree_north)
-# geospatial_lat_max: -70  (degree_north)
-# geospatial_bounds_crs: EPSG:4326
+# license: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,,,,,,,,,,,,,,,,,,,,,,
+# history: Susceptibility measurements were conducted by using a handheld KAPPAMETER KM-7 (Pocket Magnetic Susceptibility Meter) hand meter. For each rock sample eight repeat measurements have been performed on different flat and if possible fresh surfaces. Density was measured by using a scale and a bucket of water, where we measured the try rock weight and the volume was established by measuring the weight of the displaced water.,,,,,,,,,,,,,,,,,,,,,
+# : The samples were collected during the GANOVEX missions between 1979-2021.,,,,,,,,,,,,,,,,,,,,,,
+# : The columns of the CSV file are described as follows:,,,,,,,,,,,,,,,,,,,,,,
+# : * sample_name: Collection identifier.,,,,,,,,,,,,,,,,,,,,,,
+# : * latitude: latitude in decimal minutes WGS 84,,,,,,,,,,,,,,,,,,,,,,
+# : * longitude: longitude in decimal minutes WGS 84,,,,,,,,,,,,,,,,,,,,,,
+# : * lat_decimal: latitude in decimal degrees WGS84,,,,,,,,,,,,,,,,,,,,,,
+# : * lon_decimal: longitude in decimal degrees WGS84,,,,,,,,,,,,,,,,,,,,,,
+# : * locality: Describes the sample location,,,,,,,,,,,,,,,,,,,,,,
+# : * rocktyp: Describes the rock type of the sample as classified by the sample collector,,,,,,,,,,,,,,,,,,,,,,
+# : * stratigraphy: Describes stratigraphic formation of the sample as classified by the sample collector,,,,,,,,,,,,,,,,,,,,,,
+# : * weight: Describes the sample try weight in gram,,,,,,,,,,,,,,,,,,,,,,
+# : * volume: Describes the volume established by displaced water of the submerged rock sample in cubic centimetre,,,,,,,,,,,,,,,,,,,,,,
+# : * density: Describes the rock density based on weight and volume in gram per cubic centimetre.,,,,,,,,,,,,,,,,,,,,,,
+# : * observation_during_measurements: this column contains notes of observations during the measurements such as strong weathering etc.,,,,,,,,,,,,,,,,,,,,,,
+# : * susceptibility_1 - susceptibility_8 : Describes the eight repeat susceptibility measurements in 10-3 SI.,,,,,,,,,,,,,,,,,,,,,,
+# : * susceptibility_average : Describes the average value of all eight repeat measurements in 10-3 SI.,,,,,,,,,,,,,,,,,,,,,,
+# : * susceptibility std : Describes the standard deviation value of all eight repeat measurements in 10-3 SI.,,,,,,,,,,,,,,,,,,,,,,
+# : * sample_location: Describes where the rock sample is stored. Either NAPA (National Polar Sample Archive in Berlin-Spandau, Germany) or BGR (Federal Institute for Geosciences and Natural Resources, Hannover, Germany).,,,,,,,,,,,,,,,,,,,
+# comment: The KM-7 Magnetic Susceptibility Meter has a sensitivity of 1 x 10-6 SI units (based on the manufacturer). The repeat measurements were undertaken on different surfaces of the rock sample. The spatial variability of the rock sample was quite significant for same samples.,,,,,,,,,,,,,,,,,,,,,,
+# : susceptibility measurement undertaken using a handheld KAPPAMETER KM-7 (Pocket Magnetic Susceptibility Meter).,,,,,,,,,,,,,,,,,,,,,,
+# institution: British Antarctic Survey,,,,,,,,,,,,,,,,,,,,,,
+# authors: Maximilian Lowe,Tom Jordan,Jorg Ebbing,Nikola Koglin,Antonia Ruppel,Max Moorkamp,Chris Green,Andreas Laufer,Jonas Liebsch,Mikhail Ginga,Robert Larter,,,,,,,,,,,,
+# project: SENSE - Centre for Satellite Data in Environmental Science https://gtr.ukri.org/projects?ref=NE/T00939X/1,,,,,,,,,,,,,,,,,,,,,,
+# references:,,,,,,,,,,,,,,,,,,,,,,
+# publisher_name: NERC EDS UK Polar Data Centre,,,,,,,,,,,,,,,,,,,,,,
+# publisher_type: institution,,,,,,,,,,,,,,,,,,,,,,
+# publisher_email: pdc@bas.ac.uk,,,,,,,,,,,,,,,,,,,,,,
+# publisher_url: https://www.bas.ac.uk/data/uk-pdc/,,,,,,,,,,,,,,,,,,,,,,
+# time_coverage_start: 1979-01-01,,,,,,,,,,,,,,,,,,,,,,
+# time_coverage_end: 2021-12-31,,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lon_min: 135  (degree_east),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lon_max: 172  (degree_east),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lat_min: -73  (degree_north),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lat_max: -70  (degree_north),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_bounds_crs: EPSG:4326,,,,,,,,,,,,,,,,,,,,,,
 sample_name,latitude,longitude,lat_decimal (degree_north),lon_decimal (degree_east),locality,rocktyp,stratigraphy,weight (g),volume (cm^3),density (g/cm^3),observation_during_meassurments,susceptibility_1 (10-3 SI),susceptibility_2 (10-3 SI),susceptibility_3 (10-3 SI),susceptibility_4 (10-3 SI),susceptibility_5 (10-3 SI),susceptibility_6 (10-3 SI),susceptibility_7 (10-3 SI),susceptibility_8 (10-3 SI),susceptibility_average (10-3 SI),susceptibility_std (10-3 SI),sample_location
 4R 303 si,70° 27' S,161° 05' E,-70.45,161.083,Kavrayskiy Hills,Sillimanite-Biotite-Gneiss,Wilson Metamorphic Complex,939.14,350,2.683,,0.391,0.43,0.157,0.227,0.214,0.268,0.286,0.343,0.29,0.087,NAPA
 DA 114,71° 32' S,160° 16' E,-71.533,160.266,"south to Daniels Range, Thompson Spur",Granite,Granite Harbour Intrusives,1102.72,435,2.535,,-0.02,0.081,0.04,0.082,0.094,0.033,-0.01,0.032,0.042,0.04,NAPA
@@ -238,8 +238,8 @@ GA 405,71° 07' S,164° 03' E,-71.1166,164.05,top Mt. Mullach,Phyllite,Robertson
 GA 402,71° 07' S,164° 05' E,-71.1166,164.0833,"Posey Range,  north of  Mt. Mullach",Phyllite,Robertson Bay Group,49.74,18.95,2.625,,0.164,0.153,0.171,0.134,0.157,0.169,0.186,0.104,0.15475,0.023831439,NAPA
 GA 404 b0 II,71° 07' S,164° 05' E,-71.1166,164.0833,"Posey Range,  north of Mt. Mullach",Phyllite,Robertson Bay Group,200.82,75.74,2.651,,0.255,0.248,0.222,0.235,0.185,0.163,0.106,0.101,0.189375,0.057408487,NAPA
 4R 230,73° 23' S,166° 38' E,-73.3833,166.633,Dessent Ridge,Amphibolite,Wilson Schist,318.98,115,2.774,,0.275,0.3,0.291,0.323,0.336,0.364,0.373,0.346,0.326,0.032908965,NAPA
-4R 231,73° 27' S,166° 38' E,-73.45,166.633,"Dessent Ridge, south",Granet-amphibole-schist,Wilson Schist,196.07,68.09,2.88,,0.249,0.296,0.269,0.289,0.262,0.289,0.285,0.3,0.279875,0.016766317,NAPA
-4R 231,73° 27' S,166° 38' E,-73.45,166.633,"Dessent Ridge, south",Granet-amphibole-schist,Wilson Schist,732.88,262.2,2.795,,0.204,0.263,0.277,0.225,0.311,0.277,0.249,0.286,0.2615,0.032264532,NAPA
+4R 231,73° 27' S,166° 38' E,-73.45,166.633,"Dessent Ridge, south",Garnet-amphibole-schist,Wilson Schist,196.07,68.09,2.88,,0.249,0.296,0.269,0.289,0.262,0.289,0.285,0.3,0.279875,0.016766317,NAPA
+4R 231,73° 27' S,166° 38' E,-73.45,166.633,"Dessent Ridge, south",Garnet-amphibole-schist,Wilson Schist,732.88,262.2,2.795,,0.204,0.263,0.277,0.225,0.311,0.277,0.249,0.286,0.2615,0.032264532,NAPA
 4G 4005,71° 25' S,168° 17' E,-71.4166,168.2833,SW Wallis Glacier,Greywacke,Robertson Bay Group,58.83,22.34,2.633,,0.119,0.149,0.108,0.133,0.056,0.132,0.079,0.118,0.11175,0.028582119,NAPA
 4G 3024,71° 23' S,164° 11' E,-71.3833,164.1833,"Bowers Mountains, NE to NW  of the Leap Year Glacier",Greywacke,Robertson Bay Group,1691.14,640,2.642,,0.18,0.176,0.154,0.195,0.168,0.202,0.193,0.195,0.182875,0.015300633,NAPA
 4R 353 c,70° 53' S,162° 48' E,-70.8833,162.8,"Bowers Mountains, Mt. Hager",Phyllite,Bowers Supergroup,107.55,42,2.561,,0.084,0.08,0.061,0.111,0.044,-0.02,0.103,0.052,0.064375,0.038719948,NAPA
@@ -254,8 +254,8 @@ GA 6534 BSR,73° 21' S,166° 31' E,-73.35,166.5166,"North Dessent Ridge, am Mean
 GA 6534 BSR,73° 21' S,166° 31' E,-73.35,166.5166,"North Dessent Ridge, am Meander Glacier",Mica Schist to Quartzite,Wilson Schist,201.61,73.9,2.728,,0.212,0.206,0.21,0.21,0.226,0.207,0.212,0.17,0.206625,0.014991143,NAPA
 GA 6534 BE,73° 21' S,166° 31' E,-73.35,166.5166,"North Dessent Ridge, am Meander Glacier","Garnet-""Amphibolite""",Wilson Schist,359.1,123.1,2.917,,0.277,0.3,0.254,0.303,0.249,0.274,0.321,0.325,0.287875,0.026974235,NAPA
 GA 6534 BE,73° 21' S,166° 31' E,-73.35,166.5166,"North Dessent Ridge, am Meander Glacier","Garnet-""Amphibolite""",Wilson Schist,629.5,222,2.836,,0.3,0.158,0.347,0.165,0.166,0.296,0.293,0.316,0.255125,0.073113674,NAPA
-GA 6569,73° 23' S,166° 34' E,-73.3833,166.566,North Dessent Ridge,Granat-Gneiss,Wilson Schist,266.96,97.2,2.747,,7.22,6.79,18.88,16.76,12.63,18.46,13.42,11.1,13.1575,4.390628514,NAPA
-GA 6569,73° 23' S,166° 34' E,-73.3833,166.566,North Dessent Ridge,Granat-Gneiss,Wilson Schist,857.12,308.5,2.778,,8.124,6.246,3.29,7.317,5.292,8.013,7.761,7.57,6.701625,1.574472685,NAPA
+GA 6569,73° 23' S,166° 34' E,-73.3833,166.566,North Dessent Ridge,Garnet-Gneiss,Wilson Schist,266.96,97.2,2.747,,7.22,6.79,18.88,16.76,12.63,18.46,13.42,11.1,13.1575,4.390628514,NAPA
+GA 6569,73° 23' S,166° 34' E,-73.3833,166.566,North Dessent Ridge,Garnet-Gneiss,Wilson Schist,857.12,308.5,2.778,,8.124,6.246,3.29,7.317,5.292,8.013,7.761,7.57,6.701625,1.574472685,NAPA
 GA 6569,73° 23' S,166° 34' E,-73.3833,166.566,North Dessent Ridge,Garnet-Gneiss,Wilson Schist,147.15,54.35,2.707,,16.07,17.36,15.44,16.95,18.46,18.37,16.3,18.53,17.185,1.117821542,NAPA
 GA 6570 h,73° 23' S,166° 39' E,-73.3833,166.65,North Dessent Ridge,Hornblende-Gneiss,Wilson Schist,306.33,114.4,2.678,,0.011,0.052,0.037,0.086,0.049,0.084,0.1,0.131,0.06875,0.036047711,NAPA
 GA 6570 h,73° 23' S,166° 39' E,-73.3833,166.65,North Dessent Ridge,Hornblende-Gneiss,Wilson Schist,530.6,196.5,2.7,,0.191,0.065,0.136,0.12,0.06,0.182,0.111,0.046,0.113875,0.051262651,NAPA
@@ -285,7 +285,7 @@ SHB06-RS25,74° 00' S,162° 36' E,-74,162.6,"Shafer Peak N-Ridge, Deep Freeze Ra
 4G 3017,71° 28' S,164° 03' E,-71.466,164.05,"Bowers Mountains, NE to NW  to the Leap Year Glacier",Millen Schist,Millen Schist,710.15,269,2.64,,0.132,0.214,0.212,0.17,0.176,0.214,0.223,0.215,0.1945,0.02989147,NAPA
 4G 3033,71° 26' S,163° 56' E,-71.433,163.933,"Bowers Mountains, NE to NW  to the Leap Year Glacier",Millen Schist,Millen Schist,750.25,282,2.66,,0.013,0.01,0.02,0.102,0.165,0.176,0.057,0.038,0.072625,0.063019714,NAPA
 4G 3033,71° 26' S,163° 56' E,-71.433,163.933,"Bowers Mountains, NE to NW  to the Leap Year Glacier",Millen Schist,Millen Schist,1526.11,569,2.682,,0.189,0.196,0.203,0.112,0.151,0.145,0.167,0.077,0.155,0.04082585,NAPA
-4G 3012 a,70° 31' S,162° 38' E,-70.5166,162.633,SW Barber Glacier,Serpentinit,Millen Schist,1358.45,496,2.739,,0.677,0.684,0.66,0.649,0.666,0.691,0.697,0.55,0.65925,0.043942434,NAPA
+4G 3012 a,70° 31' S,162° 38' E,-70.5166,162.633,SW Barber Glacier,Serpentinite,Millen Schist,1358.45,496,2.739,,0.677,0.684,0.66,0.649,0.666,0.691,0.697,0.55,0.65925,0.043942434,NAPA
 EH02-2,73° 32' S,162° 45' E,-73.533,162.75,"SW-Ridge of Gair Mesa, close to Exposure Hill, Upper Rennick Glacier",tuff,Exposure Hill type deposits,969.59,444,2.184,,5.19,4.649,5.142,4.499,5.153,4.857,4.584,5.278,4.919,0.289865486,NAPA
 CE11e-JS1,73° 27' S,163° 11' E,-73.45,163.1833,"Mt. Carson E-Ridge, Southern Cross Mountains",tuff/tuffite,Exposure Hill type deposits,989.51,456,2.17,,0.131,0.296,0.297,0.251,0.274,0.3,0.249,0.418,0.277,0.074124895,NAPA
 4B 101,67° 52' S,146° 54' E,-67.866,146.9,Coast between Mertz und Ninnis Gletscher,"Granite, coarse-grained",Oates Coast Granites,49.55,18.76,2.641,,1.755,4.801,4.287,3.214,4.98,2.932,3.141,3.452,3.57025,1.00271628,NAPA

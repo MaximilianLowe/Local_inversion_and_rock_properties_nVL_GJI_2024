@@ -36,12 +36,12 @@
 # publisher_url: https://www.bas.ac.uk/data/uk-pdc/,,,,,,,,,,,,,,,,,,,,,,
 # time_coverage_start: 1979-01-01,,,,,,,,,,,,,,,,,,,,,,
 # time_coverage_end: 2021-12-31,,,,,,,,,,,,,,,,,,,,,,
-# geospatial_lon_min: 135  (degree_east),,,,,,,,,,,,,,,,,,,,,,
-# geospatial_lon_max: 172  (degree_east),,,,,,,,,,,,,,,,,,,,,,
-# geospatial_lat_min: -73  (degree_north),,,,,,,,,,,,,,,,,,,,,,
-# geospatial_lat_max: -70  (degree_north),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lon_min: 146.9  (degree_east),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lon_max: 170.0833  (degree_east),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lat_min: -170.0833 (degree_north),,,,,,,,,,,,,,,,,,,,,,
+# geospatial_lat_max: -67.866 (degree_north),,,,,,,,,,,,,,,,,,,,,,
 # geospatial_bounds_crs: EPSG:4326,,,,,,,,,,,,,,,,,,,,,,
-sample_name,latitude,longitude,lat_decimal (degree_north),lon_decimal (degree_east),locality,rocktyp,stratigraphy,weight (g),volume (cm^3),density (g/cm^3),observation_during_meassurments,susceptibility_1 (10-3 SI),susceptibility_2 (10-3 SI),susceptibility_3 (10-3 SI),susceptibility_4 (10-3 SI),susceptibility_5 (10-3 SI),susceptibility_6 (10-3 SI),susceptibility_7 (10-3 SI),susceptibility_8 (10-3 SI),susceptibility_average (10-3 SI),susceptibility_std (10-3 SI),sample_location
+sample_name,latitude_minute,longitude_minute ,latitude ,longitude ,locality,rocktyp,stratigraphy,weight (g),volume (cm^3),density (g/cm^3),observation_during_meassurments,susceptibility_1 (10-3 SI),susceptibility_2 (10-3 SI),susceptibility_3 (10-3 SI),susceptibility_4 (10-3 SI),susceptibility_5 (10-3 SI),susceptibility_6 (10-3 SI),susceptibility_7 (10-3 SI),susceptibility_8 (10-3 SI),susceptibility_average (10-3 SI),susceptibility_std (10-3 SI),sample_location
 4R 303 si,70° 27' S,161° 05' E,-70.45,161.083,Kavrayskiy Hills,Sillimanite-Biotite-Gneiss,Wilson Metamorphic Complex,939.14,350,2.683,,0.391,0.43,0.157,0.227,0.214,0.268,0.286,0.343,0.29,0.087,NAPA
 DA 114,71° 32' S,160° 16' E,-71.533,160.266,"south to Daniels Range, Thompson Spur",Granite,Granite Harbour Intrusives,1102.72,435,2.535,,-0.02,0.081,0.04,0.082,0.094,0.033,-0.01,0.032,0.042,0.04,NAPA
 GA 6221G,71° 34' S,162° 51' E,-71.566,162.85,NE Lanterman Range/ north from Orr Glacier,Granite,Granite Harbour Intrusives,615.04,234,2.628,,0.337,0.315,0.178,0.303,0.615,1.409,0.191,0.22,0.446,0.386,NAPA

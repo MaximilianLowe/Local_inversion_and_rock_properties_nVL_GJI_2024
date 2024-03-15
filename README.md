@@ -9,6 +9,8 @@ This GitHub repository contains the python code to prepare and evaluate the loca
   <li> Python environment file</li>
   <li> Input data for the local magnetic inversion in the Mesa Range, Antarctica</li>
   <li> petrological catalogue of density and susceptibility measurements on rock samples from northern Victoria Land</li>
+  <li> local magnetic inversion model of susceptibility distribution in the Mesa Range area</li>
+  <li> Regional scale VI joint inversion model of density and susceptibility distribution in the Wilkes Subglacial Basin and Transantarctic Mountains region</li>
   <li> Subset data from geoMAP to plot a geological map of northern Victoria Land</li>
   <li>Jupyter notebook to set up the local magnetic inversion in the Mesa Range, Antarctica. Inversion carried out in the academic software JIF3D developed by Max Moorkamp</li>
   <li>Jupyter notebook to evaluate the local magnetic inversion in the Mesa Range, Antarctica</li>

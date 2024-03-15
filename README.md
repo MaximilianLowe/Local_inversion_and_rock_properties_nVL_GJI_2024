@@ -1,6 +1,6 @@
 # Local_inversion_and_rock_properties_nVL_GJI_2024
 
-This GitHub repository contains the python code to prepare and evaluate the local magnetic inversion to recover susceptibility distribution in the Mensa Range, Antarctica. Furthermore, this GitHub repository contains the jupyter notebooks to illustrate the petrological catalogue of density and susceptibility measurements on rock samples from northern Victoria Land and the jupyter notebook to compare the petrological catalogue to the regional Variation of Information joint inversion of gravity and magnetic data in the Wilkes Subglacial Basin and Transantarctic Mountains region. It also contains a jupyter notebook to plot a geological map based on the geoMAP.
+This GitHub repository contains the python code to prepare and evaluate the local magnetic inversion to recover susceptibility distribution in the Mensa Range, Antarctica. Furthermore, this GitHub repository contains the jupyter notebooks to illustrate the petrological catalogue of density and susceptibility measurements on rock samples from northern Victoria Land and the jupyter notebook to compare the petrological catalogue to the regional Variation of Information joint inversion of gravity and magnetic data in the Wilkes Subglacial Basin and Transantarctic Mountains region. It also contains a jupyter notebook to plot a geological map based on the geoMAP. A research article containing the outputs of those jupyter notebooks is submitted to Geophysical Journal International (GJI).
 
 
 # Content 

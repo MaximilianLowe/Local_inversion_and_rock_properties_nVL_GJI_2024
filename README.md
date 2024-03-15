@@ -18,7 +18,7 @@ This GitHub repository contains the python code to prepare and evaluate the loca
 </ul>
 
 # Dataset references
-Petrological catalogue: Lowe, M., Jordan, T., Ebbing, J., Koglin, N., Ruppel, A., Moorkamp, M., Green, C., Laufer, A., Liebsch, J., Ginga, M., & Larter, R. (2024). Density and susceptibility catalogue of 320 rock samples from northern Victoria Land, East Antarctica (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. https://doi.org/10.5285/9ac70954-80aa-45af-b70f-e4e45efa8293
+**Petrological catalogue:** Lowe, M., Jordan, T., Ebbing, J., Koglin, N., Ruppel, A., Moorkamp, M., Green, C., Laufer, A., Liebsch, J., Ginga, M., & Larter, R. (2024). Density and susceptibility catalogue of 320 rock samples from northern Victoria Land, East Antarctica (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. https://doi.org/10.5285/9ac70954-80aa-45af-b70f-e4e45efa8293
 
 Local inversion model in the Mesa Range area: Lowe, M., Jordan, T., Ebbing, J., Koglin, N., Ruppel, A., Moorkamp, M., Green, C., Laufer, A., Liebsch, J., Ginga, M., & Larter, R. (2024). 3D susceptibility distribution model derived from 2010 BGR magnetic survey of the Mesa Range in northern Victoria Land, East Antarctica (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. https://doi.org/10.5285/ff3798b8-146f-42c2-870e-64c738970350
 
